@@ -1,0 +1,13 @@
+.mylinks {
+    color: white;
+    text-decoration: none;
+}
+
+.nav {
+    background-color: black;
+    text-align: center;
+    font-size: larger;
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-around;
+}
